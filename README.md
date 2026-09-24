@@ -1,16 +1,3 @@
-##  Tech Stack
-
-### Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
 
 FarmDirect 🌱
 A modern farm-to-table marketplace that connects farmers, consumers, delivery partners, and platform administrators through one digital experience.
