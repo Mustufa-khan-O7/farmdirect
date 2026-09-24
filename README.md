@@ -10,6 +10,8 @@
 - Git
 - GitHub
 - VS Code
+
+- 
 FarmDirect 🌱
 A modern farm-to-table marketplace that connects farmers, consumers, delivery partners, and platform administrators through one digital experience.
 
